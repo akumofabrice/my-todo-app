@@ -1,4 +1,4 @@
-#from functions import get_todos,write_todos #this works only when the 2 files are in same directory
+#from functions import get_todos,write_todos #this works only when the 2 files are in same directoryh
 import functions
 import time
 while True:
